@@ -1,0 +1,15 @@
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\bin\Debug\net9.0\PA2_2025.exe
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\bin\Debug\net9.0\PA2_2025.deps.json
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\bin\Debug\net9.0\PA2_2025.runtimeconfig.json
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\bin\Debug\net9.0\PA2_2025.dll
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\bin\Debug\net9.0\PA2_2025.pdb
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\PA2_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\PA2_2025.AssemblyInfoInputs.cache
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\PA2_2025.AssemblyInfo.cs
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\PA2_2025.csproj.CoreCompileInputs.cache
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\PA2_2025.sourcelink.json
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\PA2_2025.dll
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\refint\PA2_2025.dll
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\PA2_2025.pdb
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\PA2_2025.genruntimeconfig.cache
+C:\Users\pappa\Documents\MIS2025\PAs\PA2_2025\obj\Debug\net9.0\ref\PA2_2025.dll

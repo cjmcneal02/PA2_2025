@@ -1,0 +1,6 @@
+2/17/2025 10:27:40 AM: User selected menu option: 1
+2/17/2025 10:27:41 AM: User selected currency option: 3
+2/17/2025 10:27:46 AM: Converted 20 USD to 24.4 British Pound
+2/17/2025 10:28:12 AM: User selected menu option: 2
+2/17/2025 10:28:22 AM: Shipping invoice: weight=3, basePrice=826.5, amountPaid=1000, changeDue=173.5
+2/17/2025 10:28:27 AM: User selected menu option: 3
